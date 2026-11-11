@@ -1,0 +1,12 @@
+{
+  "name": "arras-ui-toolkit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UI-only userscript starter and local headless tests",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}
